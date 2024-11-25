@@ -1,5 +1,18 @@
 
-# Summary
+## Notes:
+Simplified schematic of Focal Adhesion:
+![zanclaPrimerTractionForce2022](/notes_media/gr1.jpg)
+### $\alpha$ actinin:
+Protein that binds to actin filaments and is involved in the assembly of the actin cytoskeleton.
+
+### Vinculin:
+Protein that crosslinks actin filaments to the cortical actin mesh.
+
+### Paxillin:
+Protein that crosslinks actin filaments to the focal adhesion complex. Also responsible for sensing responses to external stimuli.
+
+
+## Summary(original repo)
 
 This repository contains code to train a U-Net to predict forces from protein distributions as described in [Machine learning interpretable models of cell mechanics from protein images](https://www.cell.com/cell/fulltext/S0092-8674(23)01331-4) ([arxiv](https://arxiv.org/abs/2303.00176)).
 
